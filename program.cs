@@ -44,8 +44,11 @@ public class Car : Vehicle
 
 public class Motorcycle : Vehicle
 {
-    Car car = new Vehicle();
-    Car.Run();
+     public void RunCar()
+    {
+        Car car = new();
+        car.Run();
+    }
 
 }
 
