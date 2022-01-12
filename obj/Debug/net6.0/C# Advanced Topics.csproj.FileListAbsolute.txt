@@ -1,0 +1,15 @@
+E:\C# Advanced Topics\bin\Debug\net6.0\C# Advanced Topics.exe
+E:\C# Advanced Topics\bin\Debug\net6.0\C# Advanced Topics.deps.json
+E:\C# Advanced Topics\bin\Debug\net6.0\C# Advanced Topics.runtimeconfig.json
+E:\C# Advanced Topics\bin\Debug\net6.0\C# Advanced Topics.dll
+E:\C# Advanced Topics\bin\Debug\net6.0\ref\C# Advanced Topics.dll
+E:\C# Advanced Topics\bin\Debug\net6.0\C# Advanced Topics.pdb
+E:\C# Advanced Topics\obj\Debug\net6.0\C# Advanced Topics.csproj.AssemblyReference.cache
+E:\C# Advanced Topics\obj\Debug\net6.0\C# Advanced Topics.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Advanced Topics\obj\Debug\net6.0\C# Advanced Topics.AssemblyInfoInputs.cache
+E:\C# Advanced Topics\obj\Debug\net6.0\C# Advanced Topics.AssemblyInfo.cs
+E:\C# Advanced Topics\obj\Debug\net6.0\C# Advanced Topics.csproj.CoreCompileInputs.cache
+E:\C# Advanced Topics\obj\Debug\net6.0\C# Advanced Topics.dll
+E:\C# Advanced Topics\obj\Debug\net6.0\ref\C# Advanced Topics.dll
+E:\C# Advanced Topics\obj\Debug\net6.0\C# Advanced Topics.pdb
+E:\C# Advanced Topics\obj\Debug\net6.0\C# Advanced Topics.genruntimeconfig.cache
